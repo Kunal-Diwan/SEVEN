@@ -3,7 +3,7 @@
 
 ### Try Now 
 
-[![se1-chat-app](https://img.shields.io/badge/Try-Now-red?style=for-the-badge&logo=heroku)](https://se1-chat-app.herokuapp.com/) 
+[![se1-chat-app](https://img.shields.io/badge/Try-Now-red?style=for-the-badge&logo=heroku)](https://sev1-chat-app.herokuapp.com/) 
 
 
 ### License 
